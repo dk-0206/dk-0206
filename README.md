@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Deepanshu Kumar.<br><br>- 🔭 I’m currently a Student at Galgotias University pursuing a Bachelors degree in Computer Science.<br>- 📚 I'm currently learning JAVA, JAVAX and Servlet.<br>- ⚡ In my free time I watch anime, read manga or watch a thriller webseries.</p>
 
 ###
 
