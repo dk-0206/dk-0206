@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="600" width="1600" src="https://github.com/dk-0206/dk-0206/blob/4aa37b8ad0562934bb512cfd2d864a3a808d8afb/Images/java_helloworld.png"  />
+  <img src="https://github.com/dk-0206/dk-0206/blob/4aa37b8ad0562934bb512cfd2d864a3a808d8afb/Images/java_helloworld.png"  />
 </div>
 
 ###
