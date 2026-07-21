@@ -34,7 +34,7 @@ Currently interested in:
 
 ## 🟢 TypeVerse — Full-Stack Typing Practice Platform
 
-A production-style typing practice platform inspired by Monkeytype, built using Java Servlets and MySQL.
+A production-style typing practice platform built using Java Servlets and MySQL.
 
 ### Features
 
