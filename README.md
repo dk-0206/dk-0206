@@ -74,6 +74,9 @@ An AI-powered healthcare assistant that provides contextual health guidance thro
 
 `React` `Next.js` `TypeScript` `REST APIs`
 
+📂 Source Code:
+https://github.com/dk-0206/arogya-ai
+
 ---
 
 # 💻 Tech Stack
@@ -114,21 +117,21 @@ An AI-powered healthcare assistant that provides contextual health guidance thro
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dk-0206&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=dk-0206&theme=github-dark-blue&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk-0206&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dk-0206&theme=algolia&no-frame=true&no-bg=true&row=2&column=3" width="49%" />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dk-0206&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dk-0206&theme=github-compact&hide_border=true&area=true" width="100%" />
 
 </div>
 
