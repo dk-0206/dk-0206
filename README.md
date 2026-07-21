@@ -121,9 +121,7 @@ https://github.com/dk-0206/arogya-ai
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dk-0206&theme=github-dark-blue&hide_border=true" width="49%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=dk-0206&theme=algolia&no-frame=true&no-bg=true&row=2&column=3" width="49%" />
+<img src="https://streak-stats.demolab.com?user=dk-0206&theme=github-dark&hide_border=true"/>
 
 </div>
 
