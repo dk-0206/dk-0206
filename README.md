@@ -141,13 +141,14 @@ An AI-powered healthcare assistant that provides contextual health guidance thro
 - System Design
 - Scalable REST APIs
 - Docker
+- Mern Stack
 
 ---
 
 # 🤝 Let's Connect
 
 📧 Email:
-deepanshu2005kumar109@gmail.com
+dkdeepanshu2005@outlook.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/deepanshu-kumar2005/
